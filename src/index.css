@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: yekanBold;
+  src: url("./assets/font/IRANYekanBold.ttf");
+}
+@font-face {
+  font-family: danstevis;
+  src: url("./assets/font/danstevis.otf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  direction: rtl;
+  overflow-x: hidden;
+}
+.yekanBold {
+  font-family: yekanBold;
+}
+
+.danstevis {
+  font-family: danstevis;
+}

@@ -1,0 +1,21 @@
+.slider {
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+}
+.slider > div > div > div {
+  display: flex !important;
+  justify-content: center;
+  outline: none !important;
+}
+
+.slider > div > div > div {
+  padding: 0 0.75rem;
+}
+
+.slider > div > div > div > div > div > img {
+  border-radius: 0.85rem;
+  outline: none !important;
+}
+.slider > div > div > div > div > div {
+  outline: none !important;
+}
