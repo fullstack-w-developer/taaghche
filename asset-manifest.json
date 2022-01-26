@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/taaghche/static/css/main.25a0a1b2.css",
+    "main.js": "/taaghche/static/js/main.09c5797c.js",
+    "static/media/2.png": "/taaghche/static/media/2.548a5fc6b26501052f86.png",
+    "static/media/3.png": "/taaghche/static/media/3.fbc17079e79ac7ba0a9b.png",
+    "static/media/IRANYekanBold.ttf": "/taaghche/static/media/IRANYekanBold.7e590bd6c2c059d1eb66.ttf",
+    "static/media/danstevis.otf": "/taaghche/static/media/danstevis.ace96f6a0773ff553e55.otf",
+    "static/media/phones-360w.png": "/taaghche/static/media/phones-360w.2d3ceb461e3868ea9a27.png",
+    "static/media/1.jpg": "/taaghche/static/media/1.696cf1fb87a7bfad6abf.jpg",
+    "static/media/4.jpg": "/taaghche/static/media/4.52ef52210f66563c7d07.jpg",
+    "static/media/slick.svg": "/taaghche/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/taaghche/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/taaghche/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/taaghche/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/taaghche/index.html",
+    "main.25a0a1b2.css.map": "/taaghche/static/css/main.25a0a1b2.css.map",
+    "main.09c5797c.js.map": "/taaghche/static/js/main.09c5797c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a0a1b2.css",
+    "static/js/main.09c5797c.js"
+  ]
+}
