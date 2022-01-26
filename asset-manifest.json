@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/taaghche/static/css/main.25a0a1b2.css",
-    "main.js": "/taaghche/static/js/main.09c5797c.js",
+    "main.js": "/taaghche/static/js/main.cb4ee5d1.js",
     "static/media/2.png": "/taaghche/static/media/2.548a5fc6b26501052f86.png",
     "static/media/3.png": "/taaghche/static/media/3.fbc17079e79ac7ba0a9b.png",
     "static/media/IRANYekanBold.ttf": "/taaghche/static/media/IRANYekanBold.7e590bd6c2c059d1eb66.ttf",
@@ -15,10 +15,10 @@
     "static/media/slick.woff": "/taaghche/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/taaghche/index.html",
     "main.25a0a1b2.css.map": "/taaghche/static/css/main.25a0a1b2.css.map",
-    "main.09c5797c.js.map": "/taaghche/static/js/main.09c5797c.js.map"
+    "main.cb4ee5d1.js.map": "/taaghche/static/js/main.cb4ee5d1.js.map"
   },
   "entrypoints": [
     "static/css/main.25a0a1b2.css",
-    "static/js/main.09c5797c.js"
+    "static/js/main.cb4ee5d1.js"
   ]
 }
